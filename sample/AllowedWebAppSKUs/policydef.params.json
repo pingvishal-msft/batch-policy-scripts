@@ -1,0 +1,10 @@
+{
+	"listOfAllowedVMSKUs": {
+		"type": "Array",
+		"metadata": {
+			"description": "The list of allowed VM SKUs",
+			"strongType": "string",
+			"displayName": "Allowed VM SKUs"
+		}
+	}
+}
